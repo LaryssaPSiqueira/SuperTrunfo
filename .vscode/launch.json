@@ -1,0 +1,16 @@
+{
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "(Windows) Launch",
+                "type": "cppvsdbg", // Or "cppgdb", "lldb", etc. depending on your debugger
+                "request": "launch",
+                "program": "C:\Users\Dias\Documents\GitHub\SuperTrunfo", // Adjust path to your executable
+                "args": [],
+                "stopAtEntry": false,
+                "cwd": "${workspaceFolder}",
+                "environment": [],
+                "externalConsole": true
+            }
+        ]
+    }C:\Users\Dias\Documents\GitHub\SuperTrunfo
