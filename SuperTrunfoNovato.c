@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 #include <stdio.h>
+=======
+#include <stdio.h> // Standard input-output library
+#include <string.h> // String manipulation library
+
+// Desafio Super Trunfo - Países
+// Tema 2 - Comparação das Cartas
+// Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades.
+>>>>>>> 8b3b7f52d40a16fe89f309beeb4a8e6c17e96566
 
 int main()
 {
