@@ -1,8 +1,6 @@
 # ![Desafio](https://img.shields.io/badge/Desafio-Super%20Trunfo%20Países-6A0DAD?style=for-the-badge&logo=github&logoColor=white)
 
 Este repositório reúne o trabalho desenvolvido para o **curso de Engenharia de Software**.  
-A aluna **Laryssa** implementou todos os três níveis do desafio **Super Trunfo - Países** em **linguagem C** e está publicando o código em seu GitHub como parte de seu portfólio acadêmico e profissional.
-
 
 ---
 
